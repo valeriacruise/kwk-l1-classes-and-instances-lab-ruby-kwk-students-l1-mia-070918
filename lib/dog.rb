@@ -8,3 +8,5 @@ class Dog
     @dog
   end
 end
+
+puts dog("fido")
