@@ -4,7 +4,7 @@ class Dog
     @dog= "#{name}"
   end
   
-  def "#{name}"
+  def dog
     @dog
   end
 end
