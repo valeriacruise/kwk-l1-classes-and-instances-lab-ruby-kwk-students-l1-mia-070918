@@ -1,4 +1,4 @@
 # person.rb
 class Person
 end
-adele_goldberg= Person
+adele_goldberg= Person.new
