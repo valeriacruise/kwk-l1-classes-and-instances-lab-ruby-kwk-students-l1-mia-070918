@@ -9,4 +9,4 @@ class Dog
   end
 end
 
-puts Dog.name("fido")
+# Dog.name("fido")
